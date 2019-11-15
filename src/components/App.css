@@ -9,18 +9,28 @@ margin: 0px 0px 0px 0px;
 
 }
 
+.colsizing .icon-container{
+  align-items: center;
+}
+
 .colsizing  h4{
   color: green;
   text-align: center;
 }
 
-.colsizing  .heart{
-  margin: auto;
-  justify-content: center;
+.colsizing  .compass{
+  /* margin: auto; */
+  /* justify-content: center; */
+  height: 50px;
+  width: 100%
 }
-.colsizing  .linkedin{
-  padding: 10px;
-  text-align: center;
+.colsizing  .book{
+  height: 50px;
+  width: 100%;
+}
+.colsizing  .heart{
+  height: 50px;
+  width: 100%;
 }
 
 
