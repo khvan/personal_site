@@ -1,0 +1,76 @@
+#avatar {
+/* border-radius: 2000px; */
+height: 250px;
+width: 90%;
+margin: 0px;
+padding: 0px 5px 0px 15px;
+
+}
+
+.colsizing  h4{
+  color: green;
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .container {
+  display: flex;
+  flex-direction: row;
+
+}
+
+.profile {
+  flex-grow: 1;
+  flex-direction: column;
+  margin: auto;
+  background-color: teal;
+  display: flex;
+  min-height: 100vh;
+}
+
+.profile-1{
+  margin: auto;
+  background-color: yellowgreen;
+
+}
+
+.profile-1 img{
+  border-radius: 50%;
+  margin: auto;
+  height: 30 px;
+
+}
+
+.profile-2{
+  flex-grow: 4;
+  margin: auto;
+  background-color: lightcoral;
+}
+
+
+.main {
+  height: 100%;
+  flex-grow: 3;
+  margin: auto;
+  background-color: thistle;
+  min-height: 100vh;
+} */
+

@@ -1,14 +1,16 @@
-import React, { Component } from 'react'
-
-
-
+import React, {Component} from 'react';
+import Profile from './Profile';
+import Main from './Main';
+import './App.css';
 
 export default class App extends Component {
-  render() {
+  render () {
     return (
-      <div>
-        Welcome My React App
-      </div>
-    )
+        <div className="ui grid">
+          <Profile />
+          <Main />
+        </div>
+    
+    );
   }
 }
