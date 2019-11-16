@@ -1,20 +1,30 @@
 #avatar {
-border-radius: 2000px;
+border-radius: 2200px;
 align-content: center;
-height: 220px;
-width: 100%;
+height: 100px;
+width: 50%;
 margin: 0px;
 padding: 0px 0px 0px 0px;
 margin: 0px 0px 0px 0px;
+max-height: 400px;
 
 }
 
+#projects{
+  background-color: #5EF38C;
+}
+#education{
+ background-color: #B7FDFE;
+}
+#experience{
+  background-color: #D78EBF;
+}
 .colsizing .icon-container{
   align-items: center;
 }
 
 .colsizing  h4{
-  color: green;
+  color: #343A1A;
   text-align: center;
 }
 
@@ -34,7 +44,17 @@ margin: 0px 0px 0px 0px;
 }
 
 
+.colsizing {
+  background-color: #5EF38C;
+}
 
+.main{
+  background-color: #5EF38C;
+}
+
+.profile-avatar {
+  background-color: #5EF38C;
+}
 
 
 

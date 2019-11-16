@@ -4,22 +4,25 @@ import './App.css';
 class Profile extends Component {
   render () {
     return (
-      <div className="four wide column colsizing">
+      <div className="three wide column colsizing">
         <div className="ui vertical menu bar">
-          <img className="profile" id="avatar" src="photo.jpg" />
-          <div className="item">
+          <div className="profile-avatar">
+            <img className="profile" id="avatar" src="photo.png" />
+            <img className="profile" id="avatar" src="photo.png" />
+          </div>
+          <div id="projects" className="item">
             <h4>Projects</h4>
             <div className="icon-container">
               <img className="heart" src="heart.svg" />
             </div>
           </div>
-          <div className="item">
+          <div id="education" className="item">
             <h4>Education</h4>
             <div className="icon-container">
               <img className="book" src="book.svg" />
             </div>
           </div>
-          <div className="item">
+          <div id="experience" className="item">
             <h4>Experience</h4>
             <div className="icon-container">
               <img className="compass" src="compass.svg" />

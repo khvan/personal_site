@@ -4,8 +4,10 @@ import './App.css';
 class Main extends Component {
   render() {
     return (
-      <div className = "four wide column">
-        Main
+      <div className = "eleven wide column main">
+        <div>
+          Hello World
+        </div>
       </div>
     )
   }
